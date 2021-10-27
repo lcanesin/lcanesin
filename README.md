@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! My name is Lucas!! 👋
+
+  This is my GitHub page. I am the founder of Gaia Biodata Science, a company designed to apply data science skills to biological data (omics, environmental and others). 
+  I am now invested in the relation of transposable elements and the birth and death of genes in arachnids. TE domestication makes the floor for the birth of genes while also brings death to them the insertion breaks the coding sequence. Does bursts in gene expansion correlates with higher ancient TE activity?  
 
 <!--
 **lcanesin/lcanesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
