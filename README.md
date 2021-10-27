@@ -3,8 +3,9 @@
   - This is my GitHub page. I am a data scientist with a biological science background.
   - I work biodata science since 2012
   - Founder of **Gaia Biodata Science**, a company designed to apply data science skills to biological data (omics, environmental and others).
-  - This is my linkedin: linkedin.com/in/lucas-canesin-2822a170
+  - This is my linkedin: https://linkedin.com/in/lucas-canesin-2822a170
   - And you can contact me with this email: lucascanesin@gmail.com
+  - Pronouns: He/His
   
   I am now invested in the relation of **transposable elements** and the **birth and death of genes** in arachnids. TE domestication makes the floor for the birth of genes but also brings death to them when the insertion breaks the coding sequence. Does bursts in gene expansion correlate with higher ancient TE activity?
 
