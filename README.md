@@ -2,7 +2,7 @@
 
   - This is my GitHub page. I am a data scientist with a biological science background.
   - Working with biodata science since 2014
-  - Founder of **Gaia Biodata Science**, a company designed to apply data science skills to biological data (omics, environmental and others).
+  - Founder of **Gaia Biotech**, a company designed to apply data science skills to biological data (omics, environmental and others).
   - Pronouns: He/His
   
   I am now invested in the relation of **transposable elements** and the **birth and death of genes** in arachnids. TE domestication makes the floor for the birth of genes but also brings death to them when the insertion breaks the coding sequence. Does bursts in gene expansion correlate with higher ancient TE activity?
